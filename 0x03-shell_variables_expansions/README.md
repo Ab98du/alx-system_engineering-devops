@@ -1,1 +1,1 @@
-5-local_variables
+Create a script that creates a new local variable
